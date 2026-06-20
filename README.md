@@ -6,13 +6,16 @@ A personal academic portfolio built with HTML and CSS — showcasing my Olympiad
 
 ---
 
-## 📋 What's inside
+## 📋 Sections
 
-- 🎓 Academic record and Olympiad achievements
-- 🏆 Competitions and awards
-- 💻 Coding projects and skills
-- 🛤️ Roadmap
-- 📧 Contact and links
+- 🌟About Me
+- 🎓Academic Excellence & Olympiads
+- 🏆Competitions & Awards
+- 💻Extracurriculars & Activities
+- 🤖Skills
+- 🔗Projects
+- 🛤️Roadmap
+- 📧Contact & Links
 
 ## 🛠️ Built with
 
