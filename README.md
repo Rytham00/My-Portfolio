@@ -1,2 +1,6 @@
 # My-Portfolio
-My academic portfolio site, built with HTML &amp; CSS.
+A personal academic portfolio built with HTML and CSS, showcasing my 
+Olympiad achievements, coding projects, and extracurricular activities.
+
+Built as part of learning HTML/CSS from scratch.
+
