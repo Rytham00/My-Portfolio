@@ -2,7 +2,7 @@
 
 A personal academic portfolio built with HTML and CSS — showcasing my Olympiad achievements, coding projects, and extracurricular activities. Built for college applications.
 
-🔗 **Live site:** [Click here to view](file:///C:/Users/HP/Downloads/Pf.html)
+🔗 **Live site:** [Click here to view](https://rytham00.github.io/My-Portfolio/)
 
 ---
 
